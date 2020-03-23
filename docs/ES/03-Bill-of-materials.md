@@ -25,11 +25,11 @@ crossref: true
 colorlinks: true
 ---
 
-## Which tools do you need?
+## ¿Qué herramientas necesitas?
 
-A 3D printer, a laser cutter, and scissors
+Una impresora 3D, un cortador láser y tijeras.
 
-## Which are the model files for 3d printing? 
+## ¿Cuáles son los archivos de modelo para la impresión en 3D?
 
 All the model files can be found online [here](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1/files)
 
