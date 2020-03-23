@@ -1,5 +1,5 @@
 ---
-title: "Title of the project "
+title: "Medical shield for 3D printing"
 output: pdf_document
 documentclass: article
 classoption: onecolumn
@@ -25,7 +25,7 @@ crossref: true
 colorlinks: true
 ---
 
-## Title: From Design to Mass 3D printing of Medical Shields in Three Days
+# Title: From Design to Mass 3D printing of Medical Shields in Three Days
 
 ### Reference: 
 

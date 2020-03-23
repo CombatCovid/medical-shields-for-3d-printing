@@ -1,5 +1,5 @@
 ---
-title: "Safety considerations"
+title: "Medical shield for 3D printing"
 output: pdf_document
 documentclass: article
 classoption: onecolumn

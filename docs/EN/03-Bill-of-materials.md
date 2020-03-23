@@ -1,5 +1,5 @@
 ---
-title: "Bill of materials "
+title: "Medical shield for 3D printing"
 output: pdf_document
 documentclass: article
 classoption: onecolumn
@@ -24,7 +24,6 @@ cref: true
 crossref: true
 colorlinks: true
 ---
-
 
 ## Which tools do you need?
 
