@@ -33,12 +33,12 @@ A 3D printer, a laser cutter, and scissors
 
 All the model files can be found online [here](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1/files)
 
-This repo has all the needed files on [the src local folder](C:\Users\linigodelacruz\Documents\CoViD-19\3D-printing-of-Medical-Shields\src) and the [repo-link](https://github.com/CombatCovid/medical-shields-for-3d-printing/tree/master/src)
+This repo has all the needed files on [the src local folder](../../src) and the [repo-link](https://github.com/CombatCovid/medical-shields-for-3d-printing/tree/master/src)
 
-![Medical shield design](C:\Users\linigodelacruz\Documents\CoViD-19\3D-printing-of-Medical-Shields\docs\img\front-design.png)
+![Medical shield design](../img/front-design.png)
 
-![Medical shield design specs](C:\Users\linigodelacruz\Documents\CoViD-19\3D-printing-of-Medical-Shields\docs\img\design-details.png)
+![Medical shield design specs](../img/design-details.png)
 
-![Medical shield example of use](C:\Users\linigodelacruz\Documents\CoViD-19\3D-printing-of-Medical-Shields\docs\img\usage.png)
+![Medical shield example of use](../img/usage.png)
 
-![Medical shield example of use](C:\Users\linigodelacruz\Documents\CoViD-19\3D-printing-of-Medical-Shields\docs\img\usage-2.png)
+![Medical shield example of use](../img/usage-2.png)
