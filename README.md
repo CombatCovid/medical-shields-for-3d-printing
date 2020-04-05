@@ -1,41 +1,44 @@
+---
 description: A 3D printable medical mask
 intended-use: >-
   General considerations before starting
   Concerns about printed respirators
   The wearer will have the mask on their face, a humid and warm place, a perfect breeding ground for germs. We won’t be able to sterilize these masks effectively so we might be causing even more problems. And the virus reportedly survives for over 48 hours on the plastics (or even 90 hours, according to some other studies). We all want to help our friends and families which means we should be all the more precautious to keep from hurting them. If you absolutely insist on printing a mask now, treat it like it is a basic surgical mask and not as a true respirator with all the protections they provide. A false sense of security can be very dangerous. I understand you’re trying to help, but PLEASE spread this info into your 3D printing groups.
   
-  keywords:
-    - medical personnel 
-    - doctor 
-    - nurse
-    - protection 
-    - hospital 
-    - ambulance 
-    - emt 
-    - uniform
-    - safety
-  project-link: https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
-  intended use: > -
-      General considerations before starting Concerns about printed respirators The wearer will have the mask on their face, a humid and warm place, a perfect breeding ground for germs. We won’t be able to sterilize these masks effectively so we might be causing even more problems. And the virus reportedly survives for over 48 hours on the plastics (or even 90 hours, according to some other studies). We all want to help our friends and families which means we should be all the more precautious to keep from hurting them. If you absolutely insist on printing a mask now, treat it like it is a basic surgical mask and not as a true respirator with all the protections they provide. A false sense of security can be very dangerous. I understand you’re trying to help, but PLEASE spread this info into your 3D printing groups.
+keywords:
+- medical personnel 
+- doctor 
+- nurse
+- protection 
+- hospital 
+- ambulance 
+- emt 
+- uniform
+- safety
+project-link: https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
+intended use: >- 
+  General considerations before starting 
+  Concerns about printed respirators The wearer will have the mask on their face, a humid and warm place, a perfect breeding ground for germs. We won’t be able to sterilize these masks effectively so we might be causing even more problems. And the virus reportedly survives for over 48 hours on the plastics (or even 90 hours, according to some other studies). We all want to help our friends and families which means we should be all the more precautious to keep from hurting them. If you absolutely insist on printing a mask now, treat it like it is a basic surgical mask and not as a true respirator with all the protections they provide. A false sense of security can be very dangerous. I understand you’re trying to help, but PLEASE spread this info into your 3D printing groups.
+
+made: true
+made-independently: false
+license:
+hardware: undefined
+okh-manifest-version: 1.0.0
+date-updated: undefined
+version: v.1.0.0
+manifest-author:
+name: tbd 
+affiliation: 
+  - tbd
+contributors:
+  - Josef Průša
+sub-parts:
+  - undefined
+location:
+  - Prague, Czech Republic
   
-  made: true
-  made-independently: false
-  license:
-    hardware: undefined
-  okh-manifest-version: 1.0.0
-  date-updated: undefined
-  version: v.1.0.0
-  manifest-author:
-    name: tbd 
-    affiliation: 
-      - tbd
-  contributors:
-    - Josef Průša
-  sub-parts:
-    - undefined
-  location:
-    - Prague, Czech Republic
-  ---
+---
   
   # Title: From Design to Mass 3D printing of Medical Shields in Three Days
   
