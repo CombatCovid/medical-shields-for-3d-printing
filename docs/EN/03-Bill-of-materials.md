@@ -33,7 +33,9 @@ A 3D printer, a laser cutter, and scissors
 
 All the model files can be found online [here](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1/files)
 
-This repo has all the needed files on [the src local folder](../../src) and the [repo-link](https://github.com/CombatCovid/medical-shields-for-3d-printing/tree/master/src)
+This repo has all the needed files on [the src local folder](../../src) of the CombatCovid Github area, and you can view them or download from the links there. 
+
+If you click on the STL files, on your browser you'll get a 3D view you can manipulate, to understand the mask and its parts.
 
 ![Medical shield design](../img/front-design.png)
 
