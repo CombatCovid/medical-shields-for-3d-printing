@@ -29,7 +29,7 @@ colorlinks: true
 
 ## Punto de partida para el diseño de careta
 
-![](C:\Users\linigodelacruz\Documents\CoViD-19\3D-printing-of-Medical-Shields\docs\img\shield.jpg)
+![](../img/shield.jpg)
 
 All components are available [in this link of Thingiverse](https://www.thingiverse.com/thing:4204061)
 
